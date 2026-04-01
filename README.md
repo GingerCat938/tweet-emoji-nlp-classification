@@ -1,6 +1,6 @@
 # Emoji Classification on Tweets – NLP Project
 
-This repository contains one of my first university projects in Computational Linguistics.
+This repository contains one of my first university projects in Computational Linguistics using Python.
 
 The project focuses on analyzing English tweets using Natural Language Processing [NLP] techniques and exploring the relationship between textual content and emoji labels.
 
