@@ -1,0 +1,10 @@
+## Libraries Required
+
+pandas
+matplotlib
+spacy
+nltk
+datasets
+scikit-learn
+sentence-transformers
+torch
